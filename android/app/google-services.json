@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "726383292908",
+    "project_id": "assisthub-59ed4",
+    "storage_bucket": "assisthub-59ed4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726383292908:android:36f00510087a4a265b50c9",
+        "android_client_info": {
+          "package_name": "com.AssistHub.serviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726383292908-p1hb4j3gqnh36f7rug0j6j8o14c82tha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGIiT3SNOGa321Hrv2mwfEY_ByEkAjVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726383292908-p1hb4j3gqnh36f7rug0j6j8o14c82tha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726383292908:android:80014014458a3d1e5b50c9",
+        "android_client_info": {
+          "package_name": "com.example.assisthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726383292908-huuetnku6auct304e4gc4kssrot4himh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assisthub",
+            "certificate_hash": "f905c3fc1ec2f876e164e277d728c82ea40c5eb6"
+          }
+        },
+        {
+          "client_id": "726383292908-p1hb4j3gqnh36f7rug0j6j8o14c82tha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGIiT3SNOGa321Hrv2mwfEY_ByEkAjVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726383292908-p1hb4j3gqnh36f7rug0j6j8o14c82tha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

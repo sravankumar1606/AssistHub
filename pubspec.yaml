@@ -1,0 +1,66 @@
+name: assisthub
+description: A service marketplace application connecting customers with service providers.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.19.7
+  cloud_firestore: ^4.17.5
+  firebase_storage: any
+  firebase_messaging: any
+  file_picker: ^6.2.1
+  url_launcher: ^6.2.5
+  # Google Sign In
+  google_sign_in: ^6.2.1
+
+  http: ^1.1.0
+  
+  # State Management
+  provider: ^6.1.2
+  
+  # UI Components
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  flutter_rating_bar: ^4.0.1
+  
+  # Utilities
+  intl: ^0.20.2
+  uuid: ^4.3.3
+  image_picker: ^1.0.7
+  shared_preferences: ^2.2.2
+  
+  # Icons
+  cupertino_icons: ^1.0.6
+  flutter_launcher_icons: ^0.14.4
+  geolocator: 12.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  
+ # assets:
+  #  - assets/images/
+ #   - assets/icons/
+  
+  #fonts:
+    #- family: Poppins
+      #fonts:
+        #- asset: assets/fonts/Poppins-Regular.ttf
+        #- asset: assets/fonts/Poppins-Medium.ttf
+          #weight: 500
+        #- asset: assets/fonts/Poppins-SemiBold.ttf
+          #weight: 600
+        #- asset: assets/fonts/Poppins-Bold.ttf
+          #weight: 700
